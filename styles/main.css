@@ -1,0 +1,58 @@
+.nav{
+    background-color: black;
+    width: 100%;
+    height: 3%;
+    position: fixed;
+    bottom: 0%;
+    margin: 0%;
+    left: 0%;
+    right: 0%;
+    padding: 10px;
+}
+
+.traverse{
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.traverse a{
+    color: white;
+    font-size: 25px;
+}
+.treaverse a i{
+    justify-content: space-around;
+}
+
+.search-bar{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    height: 3%;
+    position: fixed;
+    top: 0%;
+    margin: 0%;
+    left: 0%;
+    padding: 10px;
+}
+.search-bar i{
+    flex: 1;
+    color: white;
+
+}
+.search-bar input{
+    flex: 8;
+    
+}
+
+.post{
+    margin-top: 3rem;
+}
+
+
+/* @media(max-width: 750px){
+    nav{
+        
+    }
+} */

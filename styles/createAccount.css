@@ -1,0 +1,27 @@
+
+.loginContainer{
+    position: relative;
+    top: 140px;
+    left: 50px;
+}
+
+.loginImg{
+    margin: 10px;
+}
+
+form input{
+    display: block;
+    padding: 10px;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+form button{
+    display: inline-block;
+    margin-top: 10px;
+    background-color: rgb(101, 101, 242);
+    color: white;
+}
+form .button{
+    width: 193px;
+    margin-left: 25px;
+}
